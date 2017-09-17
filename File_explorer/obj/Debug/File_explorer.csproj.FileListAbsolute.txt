@@ -1,0 +1,20 @@
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\bin\Debug\File_explorer.exe.config
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\bin\Debug\File_explorer.exe
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\bin\Debug\File_explorer.pdb
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\obj\Debug\File_explorer.csprojResolveAssemblyReference.cache
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\obj\Debug\File_explorer.Properties.Resources.resources
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\obj\Debug\File_explorer.csproj.GenerateResource.Cache
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\obj\Debug\File_explorer.exe
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\obj\Debug\File_explorer.pdb
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\bin\Debug\ObjectListView.dll
+C:\Users\student\Desktop\File_explorer\File_explorer\bin\Debug\File_explorer.exe.config
+C:\Users\student\Desktop\File_explorer\File_explorer\bin\Debug\File_explorer.exe
+C:\Users\student\Desktop\File_explorer\File_explorer\bin\Debug\File_explorer.pdb
+C:\Users\student\Desktop\File_explorer\File_explorer\bin\Debug\ObjectListView.dll
+C:\Users\student\Desktop\File_explorer\File_explorer\obj\Debug\File_explorer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\File_explorer\File_explorer\obj\Debug\File_explorer.Form1.resources
+C:\Users\student\Desktop\File_explorer\File_explorer\obj\Debug\File_explorer.Properties.Resources.resources
+C:\Users\student\Desktop\File_explorer\File_explorer\obj\Debug\File_explorer.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\File_explorer\File_explorer\obj\Debug\File_explorer.exe
+C:\Users\student\Desktop\File_explorer\File_explorer\obj\Debug\File_explorer.pdb
+E:\old hard\инст\IV курс\семестр 7\курсовые\сети эвм и тк\прога\File_explorer\File_explorer\obj\Debug\File_explorer.MainForm.resources
